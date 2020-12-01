@@ -15,7 +15,7 @@ def read(filename):
 
 setup(
     name="detect_sharpWaveRipples",
-    version="\0.1.0",
+    version="0.1.0",
     url="https://github.com/droumis/detect_sharpWaveRipples",
     license='MIT',
 
